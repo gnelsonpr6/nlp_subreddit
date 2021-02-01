@@ -1,5 +1,5 @@
 # Overview
-In this project we pull our data from Reddit to use NLP/Sentiment analysis and Classification models on two separate subreddit columns.
+In this project we pull our data from two subreddits (Android and iPhone) to use NLP/Sentiment analysis and Classification models on these two separate subreddits.
 
 # Problem Statement
 A software company would like to develop a photo and video editing software for mobile phones, but can only produce it for one mobile phone operating system due to financial constraints.
